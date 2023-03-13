@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning competitive programming  
 - 👯 I’m looking to collaborate on projects with Machine Learning and Data Science
 - 🤔 I’m looking for help to get placement in product based company
-- 😄 Pronouns: Techiest
+- 😄 Pronouns: Codaholic
 - ⚡ Fun fact: I am single
 
 <h3 align="left">Connect with me:</h3>
