@@ -1,6 +1,6 @@
+<img align="right" width="300" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp">
 ## Hi people 👋, Aswinkumar P here 
 ### Pursuing Bachelors in Computer Science and Engineering 
-
 
 - 🔭 Get my resume <a href="https://docs.google.com/document/d/1aiZH6eB46fGxc9mKQHGc2aeCS9gamFr-ky4ABrl3B5o/edit?usp=share_link" target="blank">here</a>
 - 🌱 I’m currently learning competitive programming  
