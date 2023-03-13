@@ -1,13 +1,14 @@
 <img align="right" width="300" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp">
-## Hi people 👋, Aswinkumar P here 
-### Pursuing Bachelors in Computer Science and Engineering 
+
+# Hi people 👋, Aswinkumar P here 
+## Pursuing Bachelors in Computer Science and Engineering 
 
 - 🔭 Get my resume <a href="https://docs.google.com/document/d/1aiZH6eB46fGxc9mKQHGc2aeCS9gamFr-ky4ABrl3B5o/edit?usp=share_link" target="blank">here</a>
 - 🌱 I’m currently learning competitive programming  
 - 👯 I’m looking to collaborate on projects with Machine Learning and Data Science
 - 🤔 I’m looking for help to get placement in product based company
 - 😄 Pronouns: Codaholic
-- ⚡ Fun fact: I am single
+- ⚡ Fun fact: There are two ways to write error-free programs; only the third works.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
