@@ -3,7 +3,7 @@
 
 
 - 🔭 Get my resume <a href="https://docs.google.com/document/d/1aiZH6eB46fGxc9mKQHGc2aeCS9gamFr-ky4ABrl3B5o/edit?usp=share_link">here</a>
-- 🌱 I’m currently learning competetive programming  
+- 🌱 I’m currently learning competitive programming  
 - 👯 I’m looking to collaborate on projects with Machine Learning and Data Science
 - 🤔 I’m looking for help to get placement in product based company
 - 😄 Pronouns: Techiest
