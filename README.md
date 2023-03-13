@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto://aswinkumar300245@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/gmail-2981844-2476484.png" alt="aswinkumar-p" height="40" width="40" /></a>
+  <a href="mailto:aswinkumar300245@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/gmail-2981844-2476484.png" alt="aswinkumar-p" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/aswinkumar-p" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-160-461814.png" alt="aswinkumar-p" height="40" width="40" /></a>
 <a href="https://leetcode.com/aswinkumar-p/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png" alt="aswin-543" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/aswinkumarp543" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/hackerrank-3521478-2944922.png" alt="aswinkumarp543" height="40" width="40" /></a>
