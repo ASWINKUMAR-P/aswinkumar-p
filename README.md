@@ -1,4 +1,4 @@
-## Hi there 👋, Aswinkumar P here 
+## Hi people 👋, Aswinkumar P here 
 ### Pursueing Bachelors in Computer Science and Engineering 
 
 
