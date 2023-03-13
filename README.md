@@ -1,5 +1,5 @@
 ## Hi people 👋, Aswinkumar P here 
-### Pursueing Bachelors in Computer Science and Engineering 
+### Pursuing Bachelors in Computer Science and Engineering 
 
 
 - 🔭 Get my resume <a href="https://docs.google.com/document/d/1aiZH6eB46fGxc9mKQHGc2aeCS9gamFr-ky4ABrl3B5o/edit?usp=share_link">here</a>
