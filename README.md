@@ -43,4 +43,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinkumar-p&show_icons=true&locale=en" alt="aswinkumar-p" /></p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/aswinkumar-p?theme=dark&font=milonga&extension=null)
 
