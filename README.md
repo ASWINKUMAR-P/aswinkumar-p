@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on projects with Machine Learning and Data Science
 - 🤔 I’m looking for help to get placement in product based company
 - 😄 Pronouns: Codaholic
-- ⚡ Fun fact: Coding = 1% Actual coding + 40% Debugging errors + 50% Getting help from online + 9% Taking breaks  
+- ⚡ Fun fact: Coding = 10% Actual coding + 40% Debugging errors + 50% Getting help from online  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
