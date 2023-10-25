@@ -3,7 +3,7 @@
 # Hi people 👋, Aswinkumar P here 
 ## Pursuing Bachelors in Computer Science and Engineering 
 
-- 🔭 Get my resume <a href="(https://docs.google.com/document/d/12c1e3gYkHFfDsoZJodrWLoo-V-fI6aVjA1esM3RwXR8/edit?usp=sharing)" target="blank">here</a>
+- 🔭 Get my resume <a href="https://docs.google.com/document/d/12c1e3gYkHFfDsoZJodrWLoo-V-fI6aVjA1esM3RwXR8/edit?usp=sharing" target="blank">here</a>
 - 🌱 I’m currently learning competitive programming  
 - 👯 I’m looking to collaborate on projects with Machine Learning and Data Science
 - 🤔 I’m looking for help to get placement in product based company
