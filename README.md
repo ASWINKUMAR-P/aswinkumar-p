@@ -1,7 +1,7 @@
 <img align="right" width="300" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp">
 
 # Hi people 👋, Aswinkumar P here 
-## Pursuing Bachelors in Computer Science and Engineering 
+## Member Technical Staff at Zoho Corporation
 
 - 🔭 Get my resume <a href="https://docs.google.com/document/d/12c1e3gYkHFfDsoZJodrWLoo-V-fI6aVjA1esM3RwXR8/edit?usp=sharing" target="blank">here</a>
 - 🌱 I’m currently learning competitive programming  
